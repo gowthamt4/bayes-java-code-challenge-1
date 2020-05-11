@@ -1,1 +1,6 @@
-# bayes-java-code-challenge-1
+bayes-dota
+==========
+
+This is the [task](TASK.md).
+
+Any additional information about your solution goes here.
