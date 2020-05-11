@@ -32,4 +32,4 @@ spring:
     console:
       enabled: true
 
-logging.config: classpath:logback-${ENV:development}.xml
+logging.config: classpath:logback-${ENV:development}.xml  
